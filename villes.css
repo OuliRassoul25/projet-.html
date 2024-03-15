@@ -1,0 +1,94 @@
+body[class="backgroundcolor"]{
+    background-image: url(Image/fond\ dc.jpg);
+    background-size: cover;/* englobe l'image sur toute la page */
+
+}
+body[class="fondlondres"]{
+    background-image: url(Image/fond\ londre.jpg);
+    background-size: cover;/* englobe l'image sur toute la page */
+
+
+
+}
+body[class="fondtokyo"]{
+    background-image: url(Image/fond\ tokyo\ \(2\).jpg);
+
+
+}
+body[class="fondsingpr"]{
+    background-image: url(Image/fonsingpr.webp);
+    background-size: cover;/* englobe l'image sur toute la page */
+
+
+
+}
+body[class="fondmontreal"]{
+    background-image: url(Image/fondmontreal.jpg);
+
+}
+
+
+
+
+.video{
+    display: flex;
+    width: 40%;
+    height: 40vh;
+    float: left;
+    margin-bottom: 20vh;
+    margin-right: 10%;
+}
+.texte11{
+    display: flex;
+    height: 40vh;
+    margin-top: 10vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
+.texte112{
+    display: flex;
+    height: 40vh;
+    margin-top: 10vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.158);
+    margin-left: 10%;
+}
+video{
+    border-radius: 30px;
+}
+.image2{
+    margin-top: 20vh;
+    text-align: center;
+    margin-bottom: 5vh;
+}
+.texte22{
+    display: flex;
+    width: 60%;
+    height: 40vh;
+    float: left;
+    margin-bottom: vh;
+    margin-right: 4%;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
+.image3{
+    display: flex;
+
+}
+#texte222{
+    padding-top: 10vh;
+}
+.photolondre{
+    clear: left;
+}
+
+
+
+    
